@@ -1,21 +1,27 @@
-<!-- TODO: add anything personal (current focus, fun fact) -->
-
 # Hi, I'm Jake Spurlock
 
-I'm based in San Francisco, CA, and I work at Automattic. I like building things for the web and for the Mac.
+I'm an engineer driven by curiosity about how people use the web, and lately, how AI is changing it. I'm in the San Francisco Bay Area.
 
-## What I work on
+## What I'm doing now
 
-I work on [WordPress](https://wordpress.org), at [Automattic](https://automattic.com) and with the [WordPress VIP](https://wpvip.com) team.
+- **Senior Director, Forward Deployed Engineering at [WordPress VIP](https://wpvip.com).** I work inside enterprise customers' teams on architecture, AI-enabled workflows, and agent integrations. At Pew Research Center, we made their research easier for LLMs to cite accurately (ChatGPT became their #2 referrer within 30 days) and moved their engineers to agentic development, which produced their largest release ever.
+- **[WordPress](https://wordpress.org) core committer and Security Release Lead.** I led the WordPress 7.1.3 security release and was Release Coordinator for WordPress 5.5.
+- **Adjunct faculty at USC's Iovine and Young Academy**, teaching graduate courses.
 
-## Things I've built
+## Before that
 
-- [Bootstrap](https://github.com/whyisjake/Bootstrap): The Bootstrap Book.
-- [Simple-Instant-Articles-for-Facebook](https://github.com/whyisjake/Simple-Instant-Articles-for-Facebook): Add support for Facebook Instant Articles to your WordPress site.
-- [Celluloid](https://github.com/whyisjake/Celluloid): A macOS virtual camera app with filters, adjustments, and custom LUTs.
-- [today](https://github.com/whyisjake/today): An RSS reader with just a touch of AI.
-- [restful-hello-dolly](https://github.com/whyisjake/restful-hello-dolly): A more RESTful Hello Dolly plugin.
-- [agentic-deployment-template](https://github.com/whyisjake/agentic-deployment-template): A GitHub template for agent-assisted development, works with Claude, OpenAI Codex, Copilot, or any custom agent.
+I was a software engineer at WIRED, where I architected the Apple News integration featured at WWDC and wrote the WordPress plugin for [Facebook Instant Articles](https://github.com/whyisjake/Simple-Instant-Articles-for-Facebook). I also wrote [*Bootstrap: Responsive Web Development*](https://github.com/whyisjake/Bootstrap) for O'Reilly (2013).
+
+## Nights and weekends
+
+I build apps, and most of them start on a Little League field:
+
+- **ScoutSheet**
+- **Draft Night**
+- **[Celluloid](https://github.com/whyisjake/Celluloid)**: a macOS virtual camera app with filters, adjustments, and custom LUTs.
+- **WalkUp DJ**
+
+More at [jakespurlock.com/projects](https://jakespurlock.com/projects).
 
 ## Find me
 
